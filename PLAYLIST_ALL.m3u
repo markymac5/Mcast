@@ -163,11 +163,13 @@ http://mains.services:2086/dorec14/Chuckman5525$/102451
 #EXTINF:-1 tvg-name="News Max" tvg-id="" tvg-logo="https://i.imgur.com/U0lOmkF.png" group-title="NEWS",News Max
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
-https://tvnow.best/api/stream/fsclucas@outlook.com/123473/livetv.epg/fox.news.co.m3u8
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/1611
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
-http://alma.solanaflix.com:8080/play/Wgvg7-H1PxahBOh36crv7T2bSfioAoLRwIpiAveezDG_Mf8iJ5gS8xAhDLCxxfj0
+http://stream.iptv4.me:8080/live/jayo123_13/JCAAoV0EWT/108.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
-http://iohost.co.uk:34400/stream/eece8e44b48b2299e73e99799ffdafa8
+http://74.208.182.72:25461/justplay240/vCIaD0v2Gp/456
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
+https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/fox.news.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 http://iptu.org/ch/cnninternational.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
