@@ -270,7 +270,11 @@ https://lb.privatevps.org/play/MHZBrc6TSC8Hpu9u7Bi6A2LWVngyioO4v5VuCg6n-q77rF6RL
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
 http://ptv.is:2095/eJAfShUQ/berGMA69/11114
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
-https://tvnow.best/api/stream/amishpatel81@gmail.com/790899/livetv.epg/itv.london.uk.m3u8
+http://ptv.is:2095/eJAfShUQ/berGMA69/11114
+#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV2
+https://tvnow.best/api/stream/osf.0430@gmail.com/April301998/livetv.epg/itv.2.uk.m3u8
+#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV2
+https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4377
 #EXTINF:-1 tvg-name="FASHION TV" tvg-id="" tvg-logo="https://i.imgur.com/OEXSXQZ.png" group-title="ENTERTAINMENT",FASHION TV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",TRAVEL
