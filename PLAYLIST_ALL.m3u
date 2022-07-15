@@ -112,8 +112,11 @@ http://valhalla.ottc.pro:80/Pitho_IPTV/5VSNFSITOM/4791
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://i.imgur" group-title="SPORTS",MUTV
 http://hypernetworks.xyz:8080/wbriktby/T1v7c1Fi2h/61938.ts
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://i.imgur" group-title="SPORTS",MUTV
-http://protocol.solanaflix.com:8080/play/i7Gngvcwe61Mx5hmhE9FmATgS3lFCo-mXM60_9qTIbE6tbWbT3mMKNuA9QFo1gES
-
+http://89.187.167.94:80/live.ts?channelId=22196&deviceUser=Gavhfc2&devicePass=18755623123&uid=16659
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://i.imgur" group-title="SPORTS",MUTV
+https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/mutv.uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://i.imgur" group-title="SPORTS",MUTV
+http://maxhd.eu:8080/Lwuts5NYSB/DK9qJjmXSb/14970
 
 
 
