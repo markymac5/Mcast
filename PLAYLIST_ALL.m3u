@@ -288,6 +288,12 @@ http://ptv.is:2095/eJAfShUQ/berGMA69/11114
 http://eightspeed.club:8080/frode@alfarnes.no/Zp0O9SGpvZ/279
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV2
 https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4377
+#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITVBE
+http://89.187.167.94:80/live.ts?channelId=22061&deviceUser=Gavhfc2&devicePass=18755623123&uid=16659
+#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITVBE
+https://tvnow.best/api/stream/gegame@me.com/NoahAbrahamIbarra21/livetv.epg/itvbe.uk.m3u8
+#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 4
+http://tv.blazing.iptv.uno:80/IUiajyynr6102/2rQ4BD348/14890
 #EXTINF:-1 tvg-name="FASHION TV" tvg-id="" tvg-logo="https://i.imgur.com/OEXSXQZ.png" group-title="ENTERTAINMENT",FASHION TV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",TRAVEL
