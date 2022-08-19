@@ -99,7 +99,7 @@ http://eightspeed.club:8080/frode@alfarnes.no/Zp0O9SGpvZ/246
 http://tvmalaysia.cc:80/107105/107105/6708
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport2" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",Astro Supersport2
 http://tvmalaysia.cc:80/107105/107105/6710
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BT SPORTS1
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://imgur.com/a/mSFUgQc" group-title="SPORTS",BT SPORTS1
 http://eightspeed.club:8080/frode@alfarnes.no/Zp0O9SGpvZ/234
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BT SPORTS1
 http://mains.services:2086/gmen32/5770346/67062
@@ -472,7 +472,7 @@ http://s1.exabytetv.info:8080/live/amireles2/vxnaanw/17970.m3u8
 
 
 
-
+#EXTM3U
 #EXTINF:0,BeIN  Premium HD 1
 #EXTVLCOPT:network-caching=1000
 http://pablotv.us:8080/Abdo22/12341234/58860
