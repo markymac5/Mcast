@@ -29,10 +29,6 @@ https://tvnow.best/api/stream/ajisonm@gmail.com/68852/livetv.epg/ss.football.plu
 https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4563
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports
 https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4562
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports
-https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4553
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports
-https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4556
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports box
 https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4552
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Psl" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Psl
@@ -47,16 +43,6 @@ http://ultratv.one:2095/nMQ4F6wP/szg17HmZ/39411
 http://ultratv.one:2095/nMQ4F6wP/szg17HmZ/39410
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Football" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Football
 http://neczmabfa.to:80/play/hyXwlxoiqutEogKA-hnccovzrbhASDczxA63z808IbQJG7dOdKB5iuau0JDCZbJN/ts
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports
-https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4565
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports
-https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4566
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports
-https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4567
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports
-https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4568
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports
-https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4569
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports
 https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4570
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/ozkDfKk.png" group-title="SPORTS",ELEVEN11 SPORTS
@@ -101,18 +87,20 @@ http://eightspeed.club:8080/frode@alfarnes.no/Zp0O9SGpvZ/246
 http://tvmalaysia.cc:80/107105/107105/6708
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport2" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",Astro Supersport2
 http://tvmalaysia.cc:80/107105/107105/6710
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://imgur.com/a/mSFUgQc" group-title="SPORTS",BT SPORTS1
-http://eightspeed.club:8080/frode@alfarnes.no/Zp0O9SGpvZ/234
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS",BT SPORTS1
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9851&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BT SPORTS1
 http://mains.services:2086/gmen32/5770346/67062
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BT SPORTS2
-http://eightspeed.club:8080/frode@alfarnes.no/Zp0O9SGpvZ/235
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png" group-title="SPORTS",BT SPORTS2
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9849&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BT SPORTS2
 https://iptvm3ulist.com/m3u/sp01_iptvm3ulist_com_160822.m3u
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BT SPORTS3
-http://red.ipfox.org:8080/Karam2022/Karam2023/31496
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BT SPORTS EXTRA1
-http://pandaiptv.club:8080/a0caCf8t/mzr6rhRE/13791
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png" group-title="SPORTS",BT SPORTS3
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=9847&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png" group-title="SPORTS",BT SPORTS3
+http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22299&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg" group-title="SPORTS",ESPN UK
+http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22298&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BT SPORTS EXTRA2
 http://breaking.gs:25461/UzH5E66PES/TGGSCkAWaN/6251
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BT SPORTS
@@ -145,8 +133,8 @@ http://jt-info.xyz:80/liamodwyer999@hotmail.com/6381628734/116563
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/54.ts
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE URBAN
-http://jt-info.xyz:80/liamodwyer999@hotmail.com/6381628734/116576
+#EXTINF:-1 tvg-id="" tvg-name="V2BET" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="MUSIC",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE AFRICA
 http://sansat.net:25461/g0EubxZrbYHntr8/bRUvFzmFVNA6KuA/120311
 #EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="https://i.imgur.com/XxOdu7D.png" group-title="MUSIC",MTV BASE
@@ -422,7 +410,14 @@ http://ultratv.one:2095/nMQ4F6wP/szg17HmZ/39404
 
 
 
-
+#EXTINF:-1 tvg-name="etv toonz" tvg-id="" tvg-logo="https://static.wixstatic.com/media/c0022c_00346a1fad75450091d456228f06829e~mv2.png/v1/fit/w_2500,h_1330,al_c/c0022c_00346a1fad75450091d456228f06829e~mv2.png" group-title="KIDS",YOUNG HOLLYWOOD
+https://younghollywood-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="etv toonz" tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/414vUJZ9MfL.png" group-title="KIDS",LEGO CHANNEL
+https://legochannel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="etv toonz" tvg-id="" tvg-logo="https://static.epg.best/us/Boomerang.us.png" group-title="KIDS",BOOMERANG
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=10926&extension=ts&play_token=TQ6cftyhX8
+#EXTINF:-1 tvg-name="etv toonz" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="KIDS",DUCKTV
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
 #EXTINF:-1 tvg-name="etv toonz" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="KIDS",etv toonz
 http://mains.services:2086/dorec14/Chuckman5525$/102364
 #EXTINF:-1 tvg-name="etv toonz" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="KIDS",etv toonz
@@ -477,3 +472,46 @@ http://s1.exabytetv.info:8080/live/amireles2/vxnaanw/17970.m3u8
 
 
 
+#EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/594d85f50f1c7c9b6ec1860bed536bec.png",TRINITY TV
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:TRINITY_TV.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://p2086.securepoint.io:2087/images/79f7f8d8387538f1c9097b11b2ab6f30.png",Daystar Network
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:DAYSTAR.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.mercyandtruth.tv/wp-content/uploads/2021/11/MTM-LOGO-FOR-TV-1.png",MTM JAMAICA
+https://5e7e4393c0df3.streamlock.net/mtmtv/live/playlist.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPyxbJydKY8O6FqFpDxe66w1L-ChPgIR-zNwn9nbYtGRXtyjIEAV9C&usqp=CAE&s",PARLIAMENT CHANNEL
+http://httpstreamer01.dc1.airlinktt.co/ottorigin04/live/smil:PARLIAMENT.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="http://ky-iptv.com:25461/images/8d0ca1f4e8add76ca70b5b064205f340.jpg",EWTN Canada
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:EWTN.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",JAAGRITI TV
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:JAAGRITI.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://www.livenewsworld.com/wp-content/uploads/2018/11/Trinity-Broadcasting-Network.png",TBN Trinity Broadcasting Network East
+http://httpstreamer01.dc1.airlinktt.co/ottorigin02/live/smil:TBN.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="http://www.netsportmedia.com/wp-content/uploads/2019/03/CBN-400x250.png",CBN 
+http://line.premiumpowers.net:80/live/b6126cb61b/8021f2d210/204987.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="1587" tvg-chno="1587" tvg-name="Stingray Karaoke" group-title="KARAOKE",Stingray Karaoke
+https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a1164999-b3bf-11ec-bf80-0242ac110003
+#EXTINF:-1 tvg-id="906" tvg-chno="906" tvg-name="Stingray Greatest Hits" group-title="KARAOKE",Stingray Greatest Hits
+https://ott-linear-channels.stingray.com/155/master_1920x1080_1500kbps.m3u8
+#EXTINF:-1 tvg-id="916" tvg-chno="916" tvg-name="Stingray Urban Beat" group-title="KARAOKE",Stingray Urban Beat
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://static.epg.best/in/ZeeCinemalu.in.png",Zee Cinema
+http://httpstreamer01.dc1.airlinktt.co/ottorigin05/live/smil:ZEE_CINEMA.smil/chunklist_b1160000_slen.m3u8
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeTv.png",Zee Tv
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia02/live/smil:ZEETV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",Zee World
+http://httpstreamer01.dc1.airlinktt.co/hlsnmia03/live/smil:ZEE_WORLD.smil/playlist.m3u8
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",Star Plus
+http://tv.nlt.wtf:24561/live/Ashley689/673175/45875.ts
+
+
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/xTdXfGJ.png",MAGELLAN TV
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
