@@ -273,7 +273,8 @@ https://tvnow.best/api/stream/michaeljspeciale@gmail.com/933640/livetv.epg/broth
 
 
 
-
+#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
+https://tvnow.best/api/stream/rpryor13@gmail.com/805935/livetv.epg/usa.network.pacific.us.m3u8
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
 http://tv.kis2.xyz:27500/guadalupee/BPYZwsn5Qj/1576
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
