@@ -79,9 +79,9 @@ http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22298&extension
 http://breaking.gs:25461/UzH5E66PES/TGGSCkAWaN/6251
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BT SPORTS
 http://digitaltvweb.xyz:8080/play/1zk2SQhHKt1Q91LahV4Z38Y1ul_skrmkuUzzrpdQQBuFtrnis-RaTEyK4OO4bs5y
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0" group-title="SPORTS",DAZN1
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN1
 https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/dazn.1.ca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0" group-title="SPORTS",DAZN2
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN2
 https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/dazn.2.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0" group-title="SPORTS",DAZN3
 https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/dazn.3.ca.m3u8
