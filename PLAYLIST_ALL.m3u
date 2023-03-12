@@ -155,10 +155,6 @@ http://tv.glowiptv.iptv.uno:80/6t4rPM124/zM5OmB895/23452
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts&play_token=TQ6cftyhX8
-#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://i.imgur" group-title="SPORTS",MUTV
-http://hypernetworks.xyz:8080/wbriktby/T1v7c1Fi2h/61938.ts
-#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqXxX.png" group-title="SPORTS",MUTV
-http://89.187.167.94:80/live.ts?channelId=22196&deviceUser=Gavhfc2&devicePass=18755623123&uid=16659
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqXxX.png" group-title="SPORTS",MUTV
 https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/mutv.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqXxX.png" group-title="SPORTS",MUTV
