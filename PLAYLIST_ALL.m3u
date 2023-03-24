@@ -223,6 +223,22 @@ http://45.166.68.242:8080/live/anc.julianamesquita/102030/668.ts
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/cnn.international.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/L5olAkc.png" group-title="NEWS",EURO NEWS
+https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/L5olAkc.png" group-title="NEWS",EURO NEWS
+http://mains.services:2086/dorec14/Chuckman5525$/102419
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
+https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/bbc.news.channel.uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
+https://tvnow.best/api/stream/soniamelo14@aol.com/567471/livetv.epg/bbc.news.channel.uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
+https://tvnow.best/api/stream/toddwhittle@gmail.com/Keegan11!/livetv.epg/bbc.news.channel.uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARISE NEWS" tvg-logo="https://i.imgur.com/lSywOu8.jpg" group-title="NEWS",ARISE NEWS
+https://eja.tv/?0bd5615c9bb005ce0b54b925a365d4dc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
+https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/sky.news.uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
+https://tvnow.best/api/stream/soniamelo14@aol.com/567471/livetv.epg/sky.news.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://i.imgur.com/8dfvAm1.png" group-title="NEWS",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://i.imgur.com/8dfvAm1.png" group-title="NEWS",Aljazeera
@@ -231,34 +247,18 @@ http://jt-info.xyz:80/liamodwyer999@hotmail.com/6381628734/116474
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://i.imgur.com/YQtjRsr.png" group-title="NEWS",CGTN
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/69.ts
-#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/L5olAkc.png" group-title="NEWS",EURO NEWS
-https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/L5olAkc.png" group-title="NEWS",EURO NEWS
-http://mains.services:2086/dorec14/Chuckman5525$/102419
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
-http://xteve.texaslawdog.com/stream/101d184fc07274846c8cbec601a72cdf
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
-http://jackip.ddns.net:28506/snezwerner/UBpnjwfZ42/30015
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
-https://tvnow.best/api/stream/toddwhittle@gmail.com/Keegan11!/livetv.epg/bbc.news.channel.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARISE NEWS" tvg-logo="https://i.imgur.com/lSywOu8.jpg" group-title="NEWS",ARISE NEWS
-https://eja.tv/?0bd5615c9bb005ce0b54b925a365d4dc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="https://i.imgur.KYsz30.png" group-title="NEWS",MSNBC
-http://robafone.win:8080/skPMC32K3kv9/znAQ8pxyujMM/93908
-#EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
-http://xteve.texaslawdog.com/stream/8cf757dd99763aa8a4bb19bc5e6bd81c
-#EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
-http://king-tv.net:8080/Jp/Za2EzaGxxp/5770
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://i.imgur.co0.png" group-title="NEWS",WION NEWS
-http://poppytv.xyz:8080/6751660923250171/6931660923250171/23417
+https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/wion.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://i.imgur.co0.png" group-title="NEWS",WION NEWS
-https://tvnow.best/api/stream/robles.antonio567@gmail.com/385715/livetv.epg/wion.uk.m3u8
+https://tvnow.best/api/stream/soniamelo14@aol.com/567471/livetv.epg/wion.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://i.imgur.com/Z.png" group-title="NEWS",DW
 http://mains.services:2086/dorec14/Chuckman5525$/102440
 #EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://i.imgur.comz30.png" group-title="NEWS",RT
 http://jt-info.xyz:80/liamodwyer999@hotmail.com/6381628734/116557
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://i.imgur.comz30.png" group-title="NEWS",BLOOMBERG
 http://jt-info.xyz:80/liamodwyer999@hotmail.com/6381628734/116484
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="https://i.imgur.KYsz30.png" group-title="NEWS",MSNBC
+http://robafone.win:8080/skPMC32K3kv9/znAQ8pxyujMM/93908
 
 
 
