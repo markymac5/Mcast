@@ -163,6 +163,10 @@ http://cfsystems.io:80/CBg9A9Pg6/h9btsmsQT/6178
 https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/mutv.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqXxX.png" group-title="SPORTS",MUTV
 http://maxhd.eu:8080/Lwuts5NYSB/DK9qJjmXSb/14970
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 5
+http://stream.perfectiptv.to:80/play/Cf3jVebc9ETOBY7YPtBG7_WquRyl74imF4Dld1bna2NINjnlKQ1NxiTjPsTk0UPC/ts
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 5
+http://neczmabfa.to:80/play/qqiQOmiFtfSzLBF6GZgzf_fKOIR3v-QmX2i8ZDpJndUVUnGqaFYI4uKrv_gixsxs/ts
 
 
 
@@ -223,10 +227,6 @@ http://45.166.68.242:8080/live/anc.julianamesquita/102030/668.ts
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/cnn.international.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/L5olAkc.png" group-title="NEWS",EURO NEWS
-https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/L5olAkc.png" group-title="NEWS",EURO NEWS
-http://mains.services:2086/dorec14/Chuckman5525$/102419
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
 https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/bbc.news.channel.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
@@ -247,6 +247,10 @@ http://jt-info.xyz:80/liamodwyer999@hotmail.com/6381628734/116474
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://i.imgur.com/YQtjRsr.png" group-title="NEWS",CGTN
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/69.ts
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/L5olAkc.png" group-title="NEWS",EURO NEWS
+https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/L5olAkc.png" group-title="NEWS",EURO NEWS
+https://epg.pw/stream/9ec1e2dae5ceb9628aa2df7c2eb1e13e1e869dc7d133865c80c44e44449ff80f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://i.imgur.co0.png" group-title="NEWS",WION NEWS
 https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/wion.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://i.imgur.co0.png" group-title="NEWS",WION NEWS
