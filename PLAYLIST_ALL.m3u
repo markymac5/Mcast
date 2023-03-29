@@ -163,9 +163,9 @@ http://cfsystems.io:80/CBg9A9Pg6/h9btsmsQT/6178
 https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/mutv.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqXxX.png" group-title="SPORTS",MUTV
 http://maxhd.eu:8080/Lwuts5NYSB/DK9qJjmXSb/14970
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",VIAPLAY SPORTS 1
 http://stream.perfectiptv.to:80/play/Cf3jVebc9ETOBY7YPtBG7_WquRyl74imF4Dld1bna2NINjnlKQ1NxiTjPsTk0UPC/ts
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 5
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",VIAPLAY SPORTS 1
 http://neczmabfa.to:80/play/qqiQOmiFtfSzLBF6GZgzf_fKOIR3v-QmX2i8ZDpJndUVUnGqaFYI4uKrv_gixsxs/ts
 
 
@@ -239,6 +239,8 @@ https://eja.tv/?0bd5615c9bb005ce0b54b925a365d4dc.m3u8
 https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/sky.news.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
 https://tvnow.best/api/stream/soniamelo14@aol.com/567471/livetv.epg/sky.news.uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
+https://tvnow.best/api/stream/ducks_doglike0f@icloud.com/033374/livetv.epg/sky.news.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://i.imgur.com/8dfvAm1.png" group-title="NEWS",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://i.imgur.com/8dfvAm1.png" group-title="NEWS",Aljazeera
@@ -346,8 +348,16 @@ https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/bbc.on
 https://tvnow.best/api/stream/hallpeter79@gmail.com/792007/livetv.epg/bbc.two.wales.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 4
 http://iptvpe.blogdns.net:25461/live/DNsVPA63Xx/z7M52LBNob/55915.m3u8
+#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL E
+http://mains.services:2086/cloud9/1994419/104622
+#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 4 more
+http://194.146.44.65/live/more4/playlist.m3u8
+#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 4 plus one
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4PLUS1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 4
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3539
+https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/channel.4.uk.m3u8
+#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 4 
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="FASHION TV" tvg-id="" tvg-logo="https://i.imgur.com/OEXSXQZ.png" group-title="ENTERTAINMENT",FASHION TV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",A3 BIKINI NETWORK
