@@ -15,12 +15,14 @@ https://mo3ad.xyz:443/mo3ad2zVD9m/mo3ad2zVD9m/249
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/ss.premier.league.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS",SS Maximo
 https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/ss.premier.league.ze.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS",SS Maximo
+http://ch01.spr24.net/24447/mpegts?token=tPvCeEye8vDCxH
 #EXTINF:-1 tvg-id="" tvg-name="SuperSportsLiga" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Liga
 http://fr01.spr24.net/24432/mpegts?token=cF2RCUH9syZxPd
 #EXTINF:-1 tvg-id="" tvg-name="SuperSportsLiga" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Liga
 https://ch01.spr24.net/24432/mpegts?token=cF2RCUH9syZxPd
-#EXTINF:-1 tvg-id="" tvg-name="SuperSportsLiga" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Liga
-http://api.iptveditor.com/cNGVtqLpwzw/4S9am8K9/veyJ1cmwiOiJodHRwOi8vdHYuaHVnZWlwdHYxLmlwdHYudW5vL2xpdmUvWndRbml0bXdyNDIyNC9XQ0JlOHAwNDkvMjg4OTUudHMiLCJpZCI6MTM2Mzh9/fast
+#EXTINF:-1 tvg-id="" tvg-name="SuperSportsLiga" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Serial A
+http://ch01.spr24.net/24432/mpegts?token=tPvCeEye8vDCxH
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Serial A" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Serial A
 https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4559
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Psl" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",SUPER SPORT FOOTBALL PLUS
@@ -41,10 +43,14 @@ http://protocol.solanaflix.com:8080/play/RfTvONspMr4qPp2uZM0-aw2LdRP9vcR0OrM7F8_
 https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/ss.variety.1.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperSportsvariety" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Variety2
 https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/ss.variety.2.ze.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SuperSportsvariety" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Variety3
+https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/ss.variety.3.ze.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SuperSportsvariety" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Variety4
+https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/ss.variety.4.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Football" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Football
-http://neczmabfa.to:80/play/hyXwlxoiqutEogKA-hnccovzrbhASDczxA63z808IbQJG7dOdKB5iuau0JDCZbJN/ts
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports
-https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4570
+http://ch01.spr24.net/24439/mpegts?token=tPvCeEye8vDCxH
+#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports bkup
+http://ch01.spr24.net/24434/mpegts?token=tPvCeEye8vDCxH
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS",SKY MAIN EVENT
 https://tvnow.best/api/stream/toddwhittle@gmail.com/Keegan11!/livetv.epg/eppvjpkd.ss.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS",SKY MAIN EVENT
@@ -149,16 +155,18 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cbs.wcbs.new
 http://christie.solanaflix.com:8080/play/U0N68jEsCMVmmxvTjF1Cn1XX8DK5pI3zxgCyceIX6Yh5bFBB7sugyg08s582SpS-
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport2" tvg-logo="https://imgur.com/0NwmKyw.png" group-title="SPORTS",WRESTLING
 http://ebest55.live:80/pKR9Ptcy2N/JPmGEP89V5/15141
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 2
 http://tv.glowiptv.iptv.uno:80/6t4rPM124/zM5OmB895/23452
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 3
+http://cfsystems.io:80/CBg9A9Pg6/h9btsmsQT/6176
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 4
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 4
 http://cfsystems.io:80/CBg9A9Pg6/h9btsmsQT/6177
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 5
 http://cfsystems.io:80/CBg9A9Pg6/h9btsmsQT/6178
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 5
-http://cfsystems.io:80/CBg9A9Pg6/h9btsmsQT/6178
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS LIVE
+http://tv.glowiptv.iptv.uno:80/6t4rPM124/zM5OmB895/23453
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqXxX.png" group-title="SPORTS",MUTV
 https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/mutv.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqXxX.png" group-title="SPORTS",MUTV
