@@ -396,11 +396,11 @@ https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/travel.ch
 http://neczmabfa.to:80/play/WE4M83L25BXDLspUE4OX0v29yKYqNo13LtED0pcTUPnpfKwML5mmbkvWgcaAzC2F/ts
 #EXTINF:-1 tvg-name="etv extra" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",BEACH SHOW 
 http://30a-tv.com/beachy.m3u8
-#EXTINF:-1 tvg-name="etv extra" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",e MOVIES
+#EXTINF:-1 tvg-name="etv extra" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",BIKINI
 http://stream.perfectiptv.to:80/play/Cf3jVebc9ETOBY7YPtBG7_WquRyl74imF4Dld1bna2O1tVD5Lo1WPT8p_xxDjwi8/ts
-#EXTINF:-1 tvg-name="etv" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",e EXTRA
+#EXTINF:-1 tvg-name="etv" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",TRAVEL
 http://vitalya.cbilant.com/iptv/BFX4NDQ7HYDGU2/6165/index.m3u
-#EXTINF:-1 tvg-name="etv2" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",eTV
+#EXTINF:-1 tvg-name="etv2" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",TRAVEL
 http://drsszxs.mexamo.xyz:80/Sandzakba/A2ADBBD2/181962
 #EXTINF:-1 tvg-name="comedy central" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",comedy central
 http://nellie.solanaflix.com:8080/play/41rbHAGNmRM3MnGSmovLCr7CsdYPswo1CxVMHqcVqqJOUaBeQIfhD3_uxnCkwW4C
@@ -424,7 +424,10 @@ http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/111.ts
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23064
 #EXTINF:-1 tvg-name="E" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT",E
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28846
-
+#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",BRAVO
+http://tv.kis2.xyz:27500/alejandropradotoledo1/UxC95Bd68Z/3663
+#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",BRAVO
+http://tv.onplas.xyz:39001/guadalupee/BPYZwsn5Qj/3663
 
 
 
