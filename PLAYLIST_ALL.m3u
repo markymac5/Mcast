@@ -166,7 +166,7 @@ http://server.solanaflix.com:8080/play/sXIE-YEM5BU8_V37NXF9lpDo95mUy8kh3B5aLkPLp
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/ozkDfKk.png" group-title="SPORTS",NFL
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cbs.wcbs.new.york.ny.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport2" tvg-logo="https://imgur.com/0NwmKyw.png" group-title="SPORTS",WRESTLING
-http://j.jserv.me:80/nasa1500/Kb6j4Hkvj4/6443
+http://vipsonic.xyz:8080/43785677/65756/814725
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport2" tvg-logo="https://imgur.com/0NwmKyw.png" group-title="SPORTS",WRESTLING
 http://ebest55.live:80/pKR9Ptcy2N/JPmGEP89V5/15141
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 2
@@ -246,7 +246,7 @@ https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/f
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 http://iptu.org/ch/cnninternational.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
-http://45.166.68.242:8080/live/anc.julianamesquita/102030/668.ts
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/cnn.international.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
@@ -276,19 +276,19 @@ http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/69.ts
 #EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/L5olAkc.png" group-title="NEWS",EURO NEWS
 https://euronews-euronews-world-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/L5olAkc.png" group-title="NEWS",EURO NEWS
-https://epg.pw/stream/9ec1e2dae5ceb9628aa2df7c2eb1e13e1e869dc7d133865c80c44e44449ff80f.m3u8
+https://euronews-en.alteox.stream/yfUs9DZPzDuRswvV/ewnsabren_eng_720p33.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://i.imgur.co0.png" group-title="NEWS",WION NEWS
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/wion.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://i.imgur.co0.png" group-title="NEWS",WION NEWS
 https://tvnow.best/api/stream/soniamelo14@aol.com/567471/livetv.epg/wion.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://i.imgur.com/Z.png" group-title="NEWS",DW
-http://mains.services:2086/dorec14/Chuckman5525$/102440
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://i.imgur.comz30.png" group-title="NEWS",RT
 http://jt-info.xyz:80/liamodwyer999@hotmail.com/6381628734/116557
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://i.imgur.comz30.png" group-title="NEWS",BLOOMBERG
-http://jt-info.xyz:80/liamodwyer999@hotmail.com/6381628734/116484
-#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="https://i.imgur.KYsz30.png" group-title="NEWS",MSNBC
-http://robafone.win:8080/skPMC32K3kv9/znAQ8pxyujMM/93908
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://i.imgur.comz30.png" group-title="NEWS",FRANCE 24
+https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="https://i.imgur.KYsz30.png" group-title="NEWS",PRESS TV
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 
 
 
@@ -602,8 +602,8 @@ http://kuchini.site:8080/livetvchannel2021/nMuMpbXFaUKwEyUy/1350
 http://protocol.solanaflix.com:8080/play/FgqsXPUvztGt8Gka3M3zeu7hkBiKYyd6S-xi6M_DKcyTSyo_6uwjCibY9NrL2VWA
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",Zee World
 http://206.212.248.20/live/craigg/1Lurn7m3F1/94726.m3u
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",Star Plus
-http://mateus.sportiumvip.xyz:8080/play/K7svrCGKhM6WP25urjUccV4mVDU9Qk1pKrlRkRmDU14DdepJXMJUlnPYMpWsnakH
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",mbc bollywood
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
 
 
