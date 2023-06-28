@@ -373,7 +373,7 @@ https://tvnow.best/api/stream/hallpeter79@gmail.com/792007/livetv.epg/bbc.two.wa
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL E4
 https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/E4.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL E4
-http://mains.services:2086/cloud9/1994419/104622
+https://tvnow.best/api/stream/toddwhittle@gmail.com/Keegan11!/livetv.epg/E4.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 4 more
 http://194.146.44.65/live/more4/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 4 plus one
@@ -471,17 +471,17 @@ https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/m.net.mo
 #EXTINF:-1 tvg-name="MNET2" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIES",MNET2
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/16.ts
 #EXTINF:-1 tvg-name="MNET3" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIES",MNET AL STARS
-https://tvnow.best/api/stream/jcreyes12323@gmail.com/Ceaz350909/livetv.epg/m.net.movies.all.stars.ze.m3u8
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/m.net.movies.all.stars.ze.m3u8
 #EXTINF:-1 tvg-name="MNET3" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIES",MNET ALL STARS
 https://tvnow.best/api/stream/rigo.r@me.com/622704/livetv.epg/m.net.movies.all.stars.ze.m3u8
 #EXTINF:-1 tvg-name="MNET4" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIES",MNET4
 http://platinumxmedia.xyz:8080/geniptvservice/4EYQYcwMU6/63646
 #EXTINF:-1 tvg-name="MNET4" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIES",MNET4
 http://sharkiptv.vip:900/8601665500/9241027673/35344
-#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIES",HBO MOVIE CHANNEL
-http://clubtv.link/26ago/token28082/lista1.php?c=a0or&f=.m3u8
-#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIES",HBO3 MOVIE CHANNEL
-http://ku03.wanicelife.com:8880/6m870007/36384285/30443
+#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIES",eMovies
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/eMovies.ze.m3u8
+#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIES",eMovies Extra
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/eMovies.extra.ze.m3u8
 #EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIES",HBO2 MOVIE CHANNEL
 http://ultratv.one:2095/nMQ4F6wP/szg17HmZ/39404
 #EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIES",BEIN MOVIE2 
