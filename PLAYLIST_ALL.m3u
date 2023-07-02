@@ -362,6 +362,8 @@ http://hostengine.live/live/Alice/Alice123/53911.m3u
 https://tvnow.best/api/stream/willcree@gmail.com/garthNIXON7685/livetv.epg/itv.2.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV2
 http://104.248.249.33:2720/qbsqmfyx/qbsqmfyx/4876
+#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV2
+http://watch-myjokertv.xyz:8080/Shanemit/U9LJsFz3Nv/371414
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITVBE
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/itvbe.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITVBE
