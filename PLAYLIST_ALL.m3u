@@ -360,6 +360,8 @@ https://flarestream.tv:443/Okrcky2233/eHh7Yp2vws/4067.ts
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/itv.2.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV2
 https://tvnow.best/api/stream/willcree@gmail.com/garthNIXON7685/livetv.epg/itv.2.uk.m3u8
+#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV2
+http://104.248.249.33:2720/qbsqmfyx/qbsqmfyx/4876
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITVBE
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/itvbe.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITVBE
