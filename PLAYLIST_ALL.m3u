@@ -244,7 +244,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
-http://stream.iptv4.me:8080/live/jayo123_13/JCAAoV0EWT/108.ts
+https://tvnow.best/api/stream/mail4pols@gmail.com/234961/livetv.epg/fox.news.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
 https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/fox.news.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
@@ -548,7 +548,7 @@ http://platinumxmedia.xyz:8080/geniptvservice/4EYQYcwMU6/63652
 
 
 #EXTINF:-1 tvg-name="NATGEO WILD" tvg-id="" tvg-logo="https://i.imgur.com/nsWfQRt.png" group-title="WILD LIFE AND DISCOVERY",NATGEO WILD
-http://ru02.spr24.net/20162/mpegts?token=7C5LbKyFpuqD56
+https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/nat.geo.wild.uk.m3u8
 #EXTINF:-1 tvg-name="NATGEO WILD" tvg-id="" tvg-logo="https://i.imgur.com/nsWfQRt.png" group-title="WILD LIFE AND DISCOVERY",NATGEO WILD
 http://str04.ottg.tv/9038/video.m3u8?username=McGroy&password=6NLR1OCUGX&token=9731863491b0b1e43e3d27cc8891df18&ch_id=453&req_host=pkjX3BL
 #EXTINF:-1 tvg-name="NATGEO" tvg-id="" tvg-logo="https://i.imgur.com/ns" group-title="WILD LIFE AND DISCOVERY",InWild
