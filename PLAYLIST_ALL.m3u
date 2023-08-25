@@ -118,15 +118,17 @@ https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/dazn.10.ca.m3
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN11
 https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/dazn.11.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN12
-https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/dazn.11.ca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN13
-https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/dazn.12.ca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN14
-http://sp-privatetvnew.ddns.net:80/sbAX5exB/Aldogiusgrosnew/303060
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN15
-http://ch01.spr24.net/967/mpegts?token=9YFshVLyywbYy5
+https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/dazn.12.ca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN1 ES
+http://185.71.64.28:2052/ovhess/JzwQaZ2x9BNU/151404
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN2 ES
+http://185.71.64.28:2052/ovhess/JzwQaZ2x9BNU/151406
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN3 ES
+http://185.71.64.28:2052/ovhess/JzwQaZ2x9BNU/151408
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN4 ES
+http://185.71.64.28:2052/ovhess/JzwQaZ2x9BNU/151405
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS CANADA
-https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/bein.sport.canada.ca.m3u8
+https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/bein.sport.canada.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS 2
 http://neczmabfa.to:80/play/1gHxwUVeCAwuuSeCDc2-W17Hx2TaF8r0f3zplcB7W6LJxfkC0wJ6HKouh4B3da39/ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS 3
@@ -176,7 +178,7 @@ http://www.premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/157556
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 2
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/sport.tv6.pt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 3
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts&play_token=TQ6cftyhX8
+http://11.troya.today:34000/ch1991/mono.m3u8?token=pioner1950.CP2cYaEwspDA5Y_cT4pt6YL4U6zlXOwg2aiflfbDrxMOzE0bPuuYaazre0bOUk6h
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 3
 http://cfsystems.io:80/CBg9A9Pg6/h9btsmsQT/6176
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 4
