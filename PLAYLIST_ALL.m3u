@@ -140,7 +140,7 @@ https://sc2022.stream-link.org/tv2306.php?id=s15
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN extra
 https://sc2022.stream-link.org/tv2306.php?id=s14
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2 PREMIUM" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS",PEACOCK
-http://stream.perfectiptv.to:80/play/Cf3jVebc9ETOBY7YPtBG7_WquRyl74imF4Dld1bna2MoEZxduX9M7w0YeJYMLS7x/ts
+http://server.solanaflix.com:8080/play/iFHoFReNxoqt_rOU7_e8L892ESt48mZTX4zXyGt1nOcwoARh-LUf5tQIBDzV3kMX
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT3 PREMIUM" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS",PEACOCK
 http://stream.perfectiptv.to:80/play/Cf3jVebc9ETOBY7YPtBG7_WquRyl74imF4Dld1bna2Pq3TsRhr4so4gqx4SchhcS/ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1 ARAB" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS",PEACOCK
@@ -188,8 +188,13 @@ http://line.bebestpro.com:80/marekmachcinski/1YZGNTZAMX/101094
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",VIAPLAY SPORTS 1
 http://stream.perfectiptv.to:80/play/Cf3jVebc9ETOBY7YPtBG7_WquRyl74imF4Dld1bna2NINjnlKQ1NxiTjPsTk0UPC/ts
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",VIAPLAY EXTRA
-https://i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8
-
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/eleven.sports.1.pt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ELEVEN SPORTS
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/eleven.sports.1.pt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",FUBO
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/fubo.sports.us.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",FUBO
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/fubo.sports.us.2.m3u8
 
 
 
@@ -343,7 +348,7 @@ https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/brother.
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
 https://tvnow.best/api/stream/willydavila7@gmail.com/320009/livetv.epg/usa.network.pacific.us.m3u8
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
-http://newcoco.pinals.xyz:8080/Qq35czBkUV/KZbvWDsUuv/4529
+https://tvnow.best/api/stream/jcreyes12323@gmail.com/Ceaz350909!!/livetv.epg/usa.network.east.us.m3u8
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
 http://sinlimitestv.com:8080/Ricky7278/xmmqgQC7YD/196134.m3u8
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
