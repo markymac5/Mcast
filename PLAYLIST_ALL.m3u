@@ -191,6 +191,12 @@ http://stream.perfectiptv.to:80/play/Cf3jVebc9ETOBY7YPtBG7_WquRyl74imF4Dld1bna2N
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/eleven.sports.1.pt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ELEVEN SPORTS
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/eleven.sports.1.pt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ELEVEN SPORTS
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/eleven.sports.2.pt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ELEVEN SPORTS
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/eleven.sports.3.pt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ELEVEN SPORTS
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/eleven.sports.4.pt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",FUBO
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/fubo.sports.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",FUBO
