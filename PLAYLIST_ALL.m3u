@@ -122,13 +122,13 @@ https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/dazn.11.ca.m3
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN12
 https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/dazn.12.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN1 ES
-http://185.71.64.28:2052/ovhess/JzwQaZ2x9BNU/151404
+http://es.451kka.top:80/sep53579/14231/89970
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN2 ES
 http://185.71.64.28:2052/ovhess/JzwQaZ2x9BNU/151406
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN3 ES
-http://185.71.64.28:2052/ovhess/JzwQaZ2x9BNU/151408
+http://es.451kka.top:80/sep53579/14231/89971
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN4 ES
-http://185.71.64.28:2052/ovhess/JzwQaZ2x9BNU/151405
+http://casie.solanaflix.com:8080/play/FRsHs-kC8K3McdM2Bl3qJENSeryP9gRmc-3BEHbWbH6HvrsEMuWDqmu2YZfD6zrv
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS CANADA
 https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/bein.sport.canada.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS 2
@@ -201,6 +201,14 @@ https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/eleven.sp
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/fubo.sports.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",FUBO
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/fubo.sports.us.2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",OPTUS1
+http://xmm.vampirehk.eu.org:10086/drm/OptusSport1
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",OPTUS2
+http://xmm.vampirehk.eu.org:10086/drm/OptusSport2
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",OPTUS3
+http://xmm.vampirehk.eu.org:10086/drm/OptusSport3
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",OPTUS4
+http://xmm.vampirehk.eu.org:10086/drm/OptusSport4
 
 
 
