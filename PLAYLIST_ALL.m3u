@@ -391,6 +391,10 @@ https://tvnow.best/api/stream/hallpeter79@gmail.com/792007/livetv.epg/bbc.one.wa
 https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/bbc.one.south..964.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC TWO WALES
 https://tvnow.best/api/stream/hallpeter79@gmail.com/792007/livetv.epg/bbc.two.wales.uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC ONE SCOTLAND
+http://neczbm.to/play/u74vBPeYRysRBoJLfLKxHR1-q9RJtgqCC0dKWWYUBOS8LZlqj3rDJUtEMWI0kC2s/ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC TWO SCOT
+https://tvnow.best/api/stream/hallpeter79@gmail.com/792007/livetv.epg/bbc.two.wales.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL E4
 https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/E4.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL E4
