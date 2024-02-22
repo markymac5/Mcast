@@ -295,7 +295,7 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Showcase" tvg-id="" tvg-logo="https://i.imgur.com/8rnXoq4.png" group-title="AFRICA",Africa Magic Showcase
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/africa.magic.showcase.ze.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Showcase" tvg-id="" tvg-logo="https://i.imgur.com/8rnXoq4.png" group-title="AFRICA",Africa Magic Showcase
-http://line.crystalott.net:80/HAMZA264/5WDXDSFNT7/448310
+https://tvnow.best/api/stream/rkariuki/191006/livetv.epg/africa.magic.showcase.ze.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Showcase" tvg-id="" tvg-logo="https://i.imgur.com/8rnXoq4.png" group-title="AFRICA",Africa Magic Showcase
 https://tvnow.best/api/stream/dynodonfb7@yahoo.com/117805/livetv.epg/africa.magic.showcase.ze.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Showcase" tvg-id="" tvg-logo="https://i.imgur.com/8rnXoq4.png" group-title="AFRICA",Africa Magic Showcase
@@ -311,13 +311,13 @@ https://tvnow.best/api/stream/lilliwhite63@gmail.com/Messyah++/livetv.epg/africa
 #EXTINF:-1 tvg-name="Africa Magic Family" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Family
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/africa.magic.family.ze.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Family" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Family
-http://line.crystalott.net:80/HAMZA264/5WDXDSFNT7/448312
+https://tvnow.best/api/stream/rkariuki/191006/livetv.epg/africa.magic.family.ze.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Family" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Family
 http://mains.services:2086/dorec14/Chuckman5525$/102411
 #EXTINF:-1 tvg-name="Africa Magic Epic" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Epic
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/africa.magic.epic.ze.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Epic" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Epic
-https://tvnow.best/api/stream/dynodonfb7@yahoo.com/117805/livetv.epg/africa.magic.epic.ze.m3u8
+https://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/africa.magic.epic.ze.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Epic" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Epic
 https://tvnow.best/api/stream/lilliwhite63@gmail.com/Messyah++/livetv.epg/africa.magic.epic.ze.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Yoruba" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",Africa Magic Yoruba
@@ -332,8 +332,10 @@ https://tvnow.best/api/stream/crobertson1978@ymail.com/533546/livetv.epg/africa.
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/rok.ze.m3u8
 #EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="ROK
 https://tvnow.best/api/stream/lilliwhite63@gmail.com/Messyah++/livetv.epg/rok.ze.m3u8
-#EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",BBN
-https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/brother.naija.ze.m3u8
+#EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",NOLLYWOOD
+https://edge-i.evrideo.tv/8808fff1-2262-4c92-8cf4-359adbb692ca_1000026794_HLS/manifest.m3u8
+#EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",NOLLYWOOD
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/1GTLPV80IOVMC6YM7ZXQ/master.m3u8
 #EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",BBN
 https://tvnow.best/api/stream/dynodonfb7@yahoo.com/117805/livetv.epg/brother.naija.ze.m3u8
 
