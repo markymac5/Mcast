@@ -616,8 +616,29 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 
+#EXTINF:-1 group-title="GAME OF THRONES" tvg-logo="https://imgur.com/CiLTFno.png",24/7 GAME OF THRONE CHANNEL
+http://nlximph24v1eymqyfnih7j.lista.isferorfra.me/live/sun.php?z=111&u=2C7yhTQars&s=9498545582&id=81614&t=live&f=ts
 
-#EXTINF:-1 group-title="LEGEND OF THE SEEKER SEASON ONE" tvg-logo="https://imgur.com/CiLTFno.png",EPISODE I AND 2, PROPHECY AND DESTINYy
+#EXTINF:-1 group-title="GAME OF THRONES" tvg-logo="https://imgur.com/CiLTFno.png",24/7 GAME OF THRONE CHANNEL SEASON ONE
+http://portal.ramz123.xyz:8080/drdiogobezerra/yzDTdrcP3q/82412
+#EXTINF:-1 group-title="GAME OF THRONES" tvg-logo="https://imgur.com/CiLTFno.png",24/7 GAME OF THRONE CHANNEL SEASON TWO
+http://portal.ramz123.xyz:8080/drdiogobezerra/yzDTdrcP3q/82413
+#EXTINF:-1 group-title="GAME OF THRONES" tvg-logo="https://imgur.com/CiLTFno.png",24/7 GAME OF THRONE CHANNEL SEASON THREE
+http://portal.ramz123.xyz:8080/drdiogobezerra/yzDTdrcP3q/82414
+#EXTINF:-1 group-title="GAME OF THRONES" tvg-logo="https://imgur.com/CiLTFno.png",24/7 GAME OF THRONE CHANNEL SEASON FOUR
+http://portal.ramz123.xyz:8080/drdiogobezerra/yzDTdrcP3q/82415
+#EXTINF:-1 group-title="GAME OF THRONES" tvg-logo="https://imgur.com/CiLTFno.png",24/7 GAME OF THRONE CHANNEL SEASON FIVE
+http://portal.ramz123.xyz:8080/drdiogobezerra/yzDTdrcP3q/82416
+#EXTINF:-1 group-title="GAME OF THRONES" tvg-logo="https://imgur.com/CiLTFno.png",24/7 GAME OF THRONE CHANNEL SEASON SIX
+http://portal.ramz123.xyz:8080/drdiogobezerra/yzDTdrcP3q/82417
+#EXTINF:-1 group-title="GAME OF THRONES" tvg-logo="https://imgur.com/CiLTFno.png",24/7 GAME OF THRONE CHANNEL SEASON SEVEN
+http://portal.ramz123.xyz:8080/drdiogobezerra/yzDTdrcP3q/82418
+#EXTINF:-1 group-title="GAME OF THRONES" tvg-logo="https://imgur.com/CiLTFno.png",24/7 GAME OF THRONE CHANNEL SEASON EIGHT
+http://portal.ramz123.xyz:8080/drdiogobezerra/yzDTdrcP3q/82419
+
+
+
+#EXTINF:-1 group-title="GAME OF THRONES SEASON ONE" tvg-logo="https://imgur.com/CiLTFno.png",EPISODE I AND 2, PROPHECY AND DESTINYy
 http://vip.itvdom.com:25443/series/chantal01/1234567890/184569.mp4
 #EXTINF:-1 group-title="LEGEND OF THE SEEKER SEASON ONE" tvg-logo="https://imgur.com/CiLTFno.png",EPISODE 3 BOUNTY
 http://vip.itvdom.com:25443/series/chantal01/1234567890/184571.mp4
