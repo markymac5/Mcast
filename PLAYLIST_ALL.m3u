@@ -616,8 +616,8 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
 
-#EXTINF:-1 group-title="GAME OF THRONES" tvg-logo="https://imgur.com/CiLTFno.png",24/7 GAME OF THRONE CHANNEL
-http://nlximph24v1eymqyfnih7j.lista.isferorfra.me/live/sun.php?z=111&u=2C7yhTQars&s=9498545582&id=81614&t=live&f=ts
+#EXTINF:-1 group-title="B4U" tvg-logo="https://imgur.com/CiLTFno.png",24/7 B4U
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/69443
 
 #EXTINF:-1 group-title="GAME OF THRONES" tvg-logo="https://imgur.com/CiLTFno.png",24/7 GAME OF THRONE CHANNEL SEASON ONE
 http://portal.ramz123.xyz:8080/drdiogobezerra/yzDTdrcP3q/82412
@@ -639,6 +639,14 @@ http://portal.ramz123.xyz:8080/drdiogobezerra/yzDTdrcP3q/82419
 
 #EXTINF:-1 group-title="LORD OF THE RING" tvg-logo="https://imgur.com/CiLTFno.png",24/7 LORD OF THE RING
 http://thunderbolt-40gbps.com/play/D2uaRqDjRBid_KqoI8FFSnp5La_8jz2K2iKu1MPWeW0
+
+
+#EXTINF:-1 group-title="DISNEY" tvg-logo="https://imgur.com/CiLTFno.png",24/7 DISNEY MOVIE
+http://hdhd.tk:80/4130/4130/34026
+
+
+#EXTINF:-1 group-title="SUPERHEROS" tvg-logo="https://imgur.com/CiLTFno.png",24/7 SUPERHEROES MOVIES
+http://thunderbolt-40gbps.com/play/D2uaRqDjRBid_KqoI8FFSkjZEYyaCDYn2CfBzU5IvyE
 
 
 
