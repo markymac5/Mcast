@@ -115,8 +115,8 @@ http://iptv.nextnet.krd:25461/nextnet/3738/4346
 http://mcktv.xyz:8080/jamesjudge2/Adam1022/7590
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT3 PREMIUM" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS",PEACOCK
 http://bank12314.cdngold.me:80/b8a6a970f5/5fdc290b85/435135
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1 ARAB" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS",PEACOCK
-http://tv.trexiptv.com:8000/play/live.php?mac=00:1A:79:E2:dc:67&stream=1006286&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1 ARAB" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS",PEACOCK WWE
+http://thunderbolt-40gbps.com/play/a-MJYizOK-SLtEJfVaRwMc0jJTVYZjnH1xY8OxKODxwZlV8uy0tPjs_I8Bf_M-CG
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/ozkDfKk.png" group-title="SPORTS",NFL
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cbs.wcbs.new.york.ny.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Astro Supersport2" tvg-logo="https://imgur.com/0NwmKyw.png" group-title="SPORTS",WRESTLING
@@ -224,11 +224,11 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
-https://tvnow.best/api/stream/mail4pols@gmail.com/234961/livetv.epg/fox.news.us.m3u8
+https://tvnow.best/api/stream/soniamelo14@aol.com/567471/livetv.epg/fox.news.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
-https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/fox.news.ca.m3u8
+https://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/fox.news.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
-https://tvnow.best/api/stream/rsjanisse@yahoo.com/Thelordsservant72/livetv.epg/fox.news.ca.m3u8
+https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/fox.news.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 http://iptu.org/ch/cnninternational.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
@@ -242,11 +242,11 @@ https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/bb
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
 https://tvnow.best/api/stream/soniamelo14@aol.com/567471/livetv.epg/bbc.news.channel.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
-https://tvnow.best/api/stream/lilliwhite63@gmail.com/Messyah++/livetv.epg/bbc.news.channel.uk.m3u8
+https://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/bbc.news.channel.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARISE NEWS" tvg-logo="https://i.imgur.com/lSywOu8.jpg" group-title="NEWS",ARISE NEWS
 https://eja.tv/?0bd5615c9bb005ce0b54b925a365d4dc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
-https://tvnow.best/api/stream/lilliwhite63@gmail.com/Messyah++/livetv.epg/sky.news.uk.m3u8
+https://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/sky.news.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/sky.news.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
@@ -344,17 +344,15 @@ https://lb.thunderbolt-40gbps.com/play/3q4KaAA-Ye0TpjosG9WFvRIDrTO0njBmJkDS7aMw1
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/itv.1.uk.m3u8 
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
-https://tvnow.best/api/stream/lilliwhite63@gmail.com/Messyah++/livetv.epg/itv.1.uk.m3u8
+https://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/itv.1.uk.m3u8
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
 https://flarestream.tv:443/Okrcky2233/eHh7Yp2vws/4067.ts
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV2
-https://lb.thunderbolt-40gbps.com/play/3q4KaAA-Ye0TpjosG9WFvd6wQUYP_8Y9Y_R2z0L4fE3ud3YrCu7CXjPaGCKYS94Z
-#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV2
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/itv.2.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV2
-https://tvnow.best/api/stream/lilliwhite63@gmail.com/Messyah++/livetv.epg/itv.2.uk.m3u8
+https://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/itv.2.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV2
-http://watch-myjokertv.xyz:8080/Shanemit/U9LJsFz3Nv/371414
+https://lb.thunderbolt-40gbps.com/play/3q4KaAA-Ye0TpjosG9WFvd6wQUYP_8Y9Y_R2z0L4fE3ud3YrCu7CXjPaGCKYS94Z
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITVBE
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/itvbe.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITVBE
