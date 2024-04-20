@@ -8,7 +8,7 @@ https://tvnow.best/api/stream/rkariuki/191006/livetv.epg/ss.premier.league.ze.m3
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS",SS Premier League
 https://itskartikiptv.000webhostapp.com/push4k.php?id=16118
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS",SS Premier League
-https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/ss.premier.league.ze.m3u8
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ss.premier.league.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS",SS Maximo
 https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/ss.premier.league.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS",SS Maximo
@@ -112,7 +112,7 @@ https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/bein.sport
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS 2
 http://iptv.nextnet.krd:25461/nextnet/3738/4346
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2 PREMIUM" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS",PEACOCK
-http://mcktv.xyz:8080/jamesjudge2/Adam1022/7590
+http://tv.trexiptv.com:8000/play/live.php?mac=00:1A:79:E2:dc:67&stream=1006286&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT3 PREMIUM" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS",PEACOCK
 http://bank12314.cdngold.me:80/b8a6a970f5/5fdc290b85/435135
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1 ARAB" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS",PEACOCK WWE
@@ -483,16 +483,34 @@ http://tsmu.25zlma.net:2082/rokh2018_724894/dzuutBWO/265796
 https://tvnow.best/api/stream/jcreyes12323@gmail.com/Ceaz350909!!/livetv.epg/eMovies.extra.ze.m3u8
 #EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIES",eMovies Extra
 http://tsmu.25zlma.net:2082/rokh2018_724894/dzuutBWO/265797
-#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIES",HBO2 MOVIE CHANNEL
-http://ultratv.one:2095/nMQ4F6wP/szg17HmZ/39404
+#EXTINF:-1 tvg-name="NEW MOVIE" tvg-id="" tvg-logo="https://i.img" group-title="MOVIES",NEW MOVIE
+https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
 #EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIES",BEIN MOVIE2 
 http://iptvmedia.live:8080/F17165/97b626a6/1270
 #EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",MBC MAX
 http://streama.cc:80/Wiled123/11223344/37843
 #EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",MBC ACTION
 http://streama.cc:80/Wiled123/11223344/37840
-#EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",MBC2
-http://atlas.solanaflix.com:8080/play/KpvpdRq9MhqZqioJXUOuIlMiBnHiF9dEfYiUUv_V6Fa0BV4LYR_OZETOCREwdXzy
+#EXTINF:-1 tvg-name="MOVIES NOW" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",MOVIES NOW
+http://171297380789818451.napgoto413.xyz:80/play/vi812558/V6NmjJnCXFuA/818451.ts
+#EXTINF:-1 tvg-name="MOVIES NOW" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",MOVIES NOW
+http://171297380789818451.napgoto413.xyz:80/play/vi812558/V6NmjJnCXFuA/818451.ts
+#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",OSN MOVIES BOX OFFICE2
+https://neczmabfa.to:443/play/x5S4mTKC7mP7caEJwmJu5tyRClQvNVKNyBdmzztqMETa-5PE6_zshMGZI-50ksSM
+#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",OSN MOVIES BOX OFFICE1
+http://titanhost.site:80/HSrkzmekGs/NECJHrN6ZK/517104.ts
+#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",OSN MOVIES
+https://neczmabfa.to:443/play/x5S4mTKC7mP7caEJwmJu5tyRClQvNVKNyBdmzztqMERmAiDoc8v8esIACiu7TLNs
+#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",OSN MOVIES
+https://neczmabfa.to:443/play/x5S4mTKC7mP7caEJwmJu5tyRClQvNVKNyBdmzztqMESae5NHCK4bCai6iJavv7Hb
+#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",OSN MOVIES
+http://tv.shtv.iptv.uno:80/SemiMa/mVqfT8544/5722
+#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",OSN MOVIES PREMIERE
+http://tv.shtv.iptv.uno:80/SemiMa/mVqfT8544/5721
+#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",OSN MOVIES FAMILY
+https://neczmabfa.to:443/play/x5S4mTKC7mP7caEJwmJu5tyRClQvNVKNyBdmzztqMERHtnQzoKZ6XmE_9Xim92E4
+
+
 
 
 
@@ -768,6 +786,8 @@ http://817755480250141572.of1124.xyz:80/movie/vi812558/V6NmjJnCXFuA/141572.mp4
 http://819600118192141509.otabt.xyz:80/movie/GGJA1110/GGHZ6523/141509.mp4
 #EXTINF:-1 tvg-name="3D MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/jG4Gq6l.png" group-title="3D MOVIES",ICE AGE DAWN OF THE DINOSAUR
 http://604628194826141510.of1027.xyz:80/movie/vi0306329/KfqjamXQcAxx/141510.mp4
+#EXTINF:-1 tvg-name="3D MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/jG4Gq6l.png" group-title="3D MOVIES",24/7 3D ANIMICION
+http://573199592674141553.ofip231209.xyz:80/movie/mi92566/M6n7pVT4Gpcv/141553.mp4
 #EXTINF:-1 tvg-name="3D MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/jG4Gq6l.png" group-title="3D MOVIES",GEO STORM
 http://573199592674141553.ofip231209.xyz:80/movie/mi92566/M6n7pVT4Gpcv/141553.mp4
 #EXTINF:-1 tvg-name="3D MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/jG4Gq6l.png" group-title="3D MOVIES",GEO STORM
