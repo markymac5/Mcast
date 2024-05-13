@@ -40,7 +40,7 @@ https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/ss
 #EXTINF:-1 tvg-id="" tvg-name="SuperSportsvariety" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Variety2
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/ss.variety.2.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperSportsvariety" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Variety3
-https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/ss.variety.3.ze.m3u8
+https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/ss.variety.3.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperSportsvariety" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Variety4
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/ss.variety.4.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Football" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS",Supersports Football
@@ -357,10 +357,10 @@ https://lb.thunderbolt-40gbps.com/play/3q4KaAA-Ye0TpjosG9WFvd6wQUYP_8Y9Y_R2z0L4f
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/itvbe.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITVBE
 https://tvnow.best/api/stream/gegame@me.com/NoahAbrahamIbarra21/livetv.epg/itvbe.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC ONE WALES
-https://tvnow.best/api/stream/hallpeter79@gmail.com/792007/livetv.epg/bbc.one.wales.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC ONE SOUTH
 https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/bbc.one.south..964.uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC ONE WALES
+https://tvnow.best/api/stream/hallpeter79@gmail.com/792007/livetv.epg/bbc.one.wales.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC TWO WALES
 https://tvnow.best/api/stream/hallpeter79@gmail.com/792007/livetv.epg/bbc.two.wales.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC ONE SCOTLAND
@@ -368,7 +368,7 @@ http://neczbm.to/play/u74vBPeYRysRBoJLfLKxHR1-q9RJtgqCC0dKWWYUBOS8LZlqj3rDJUtEMW
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC TWO SCOT
 https://tvnow.best/api/stream/hallpeter79@gmail.com/792007/livetv.epg/bbc.two.wales.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL E4
-https://tvnow.best/api/stream/lilliwhite63@gmail.com/Messyah++/livetv.epg/E4.uk.m3u8
+https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/E4.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL E4
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/E4.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 4 more
@@ -376,7 +376,7 @@ http://194.146.44.65/live/more4/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 4 plus one
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4PLUS1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 4
-https://tvnow.best/api/stream/lilliwhite63@gmail.com/Messyah++/livetv.epg/channel.4.uk.m3u8
+https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/channel.4.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 4 
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",BEACH TV
@@ -389,8 +389,6 @@ https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/travel.us.east.us.m3u8
 #EXTINF:-1 tvg-name="TRAVEL CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",TRAVEL CHANNEL
 https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/travel.channel.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC ONE
-http://neczmabfa.to:80/play/WE4M83L25BXDLspUE4OX0v29yKYqNo13LtED0pcTUPnpfKwML5mmbkvWgcaAzC2F/ts
 #EXTINF:-1 tvg-name="etv extra" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",BEACH SHOW 
 http://30a-tv.com/beachy.m3u8
 #EXTINF:-1 tvg-name="etv extra" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",BIKINI
