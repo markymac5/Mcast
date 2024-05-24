@@ -119,8 +119,10 @@ http://bank12314.cdngold.me:80/b8a6a970f5/5fdc290b85/435135
 http://thunderbolt-40gbps.com/play/a-MJYizOK-SLtEJfVaRwMc0jJTVYZjnH1xY8OxKODxwZlV8uy0tPjs_I8Bf_M-CG
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/ozkDfKk.png" group-title="SPORTS",NFL
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cbs.wcbs.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport2" tvg-logo="https://imgur.com/0NwmKyw.png" group-title="SPORTS",WRESTLING
-http://live.lordstreams.co:8080/Marky0416/2c1744538b/84695
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport2" tvg-logo="https://imgur.com/0NwmKyw.png" group-title="SPORTS",IMPACT WRESTLING
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport2" tvg-logo="https://imgur.com/0NwmKyw.png" group-title="SPORTS",IMPACT PLUS
+https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS
 https://test.otto.my.id/backup/live.php?id=assp1
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ASTRO SUPER SPORTS 2
@@ -220,7 +222,7 @@ http://mains.services:2086/dorec14/Chuckman5525$/102451
 
 
 #EXTINF:-1 tvg-name="News Max" tvg-id="" tvg-logo="https://i.imgur.com/U0lOmkF.png" group-title="NEWS",News Max
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
@@ -383,7 +385,9 @@ https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
 https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",BEACH TV
 http://kuchini.site:8080/xhevahir2022/bTUNuQxGfD64wgMZ/296655
-#EXTINF:-1 tvg-name="FASHION TV" tvg-id="" tvg-logo="https://i.imgur.com/OEXSXQZ.png" group-title="ENTERTAINMENT",FASHION TVv
+#EXTINF:-1 tvg-name="FASHION TV" tvg-id="" tvg-logo="https://i.imgur.com/OEXSXQZ.png" group-title="ENTERTAINMENT",FASHION TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FASHION TV" tvg-id="" tvg-logo="https://i.imgur.com/OEXSXQZ.png" group-title="ENTERTAINMENT",FASHION TV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVEL CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",TRAVEL CHANNEL
 https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/travel.us.east.us.m3u8
@@ -393,8 +397,8 @@ https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/travel.ch
 http://30a-tv.com/beachy.m3u8
 #EXTINF:-1 tvg-name="etv extra" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",BIKINI
 http://stream.perfectiptv.to:80/play/Cf3jVebc9ETOBY7YPtBG7_WquRyl74imF4Dld1bna2O1tVD5Lo1WPT8p_xxDjwi8/ts
-#EXTINF:-1 tvg-name="etv" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",TRAVEL
-http://vitalya.cbilant.com/iptv/BFX4NDQ7HYDGU2/6165/index.m3u
+#EXTINF:-1 tvg-name="etv" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",TRAVEL XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="etv2" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",TRAVEL
 http://drsszxs.mexamo.xyz:80/Sandzakba/A2ADBBD2/181962
 #EXTINF:-1 tvg-name="comedy central" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",comedy central
@@ -419,10 +423,10 @@ http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/111.ts
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23064
 #EXTINF:-1 tvg-name="E" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT",E
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28846
-#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",BRAVO
-http://tv.kis2.xyz:27500/alejandropradotoledo1/UxC95Bd68Z/3663
-#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",BRAVO
-http://tv.onplas.xyz:39001/guadalupee/BPYZwsn5Qj/3663
+#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",TELEMUNDO EAST
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",TELEMUNDO WEST
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
 
 
 
@@ -507,6 +511,12 @@ http://tv.shtv.iptv.uno:80/SemiMa/mVqfT8544/5722
 http://tv.shtv.iptv.uno:80/SemiMa/mVqfT8544/5721
 #EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",OSN MOVIES FAMILY
 https://neczmabfa.to:443/play/x5S4mTKC7mP7caEJwmJu5tyRClQvNVKNyBdmzztqMERHtnQzoKZ6XmE_9Xim92E4
+#EXTINF:-1 tvg-name="RAKUTEN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",RAKUTEN ACTION MOVIES
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="RAKUTEN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",RAKUTEN COMEDY MOVIES
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="RAKUTEN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",RAKUTEN FAMILY MOVIES
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
@@ -525,7 +535,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-name="etv toonz" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="KIDS",etv toonz
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/33.ts
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-id="" tvg-logo="https://i.imgur.com/ze7dZal.png" group-title="KIDS",NICKELODEON
-http://coco.jimaplus.xyz:8080/play/390JUkhTJxMGtVNc2ZGoKlJHZPndLrW5MZ9jOyAbMWQ
+http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-name="NICKELODEON" tvg-id="" tvg-logo="https://i.imgur.com/ze7dZal.png" group-title="KIDS",NICKELODEON
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/49.ts
 #EXTINF:-1 tvg-name="JIM JAM" tvg-id="" tvg-logo="https://i.imgur.com/" group-title="KIDS",JIM JAM
@@ -547,7 +557,7 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28856
 #EXTINF:-1 tvg-name="DISNEY XD" tvg-id="" tvg-logo="https://i.imgur.com/hOqnKtX.png" group-title="KIDS",DISNEY XD
 http://wagmaott.com:8080/chemsou-adminueJVqFhEZq/wiqSEvCtIS/42113
 #EXTINF:-1 tvg-name="NICK" tvg-id="" tvg-logo="https://i.imgur.com/ze7dZal.png" group-title="KIDS",NICKTOON
-http://player.smartvpluseu.com/3143122720748133/2598854265/312463
+http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",NICK JNR
 http://platinumxmedia.xyz:8080/geniptvservice/4EYQYcwMU6/63652
 
@@ -619,8 +629,8 @@ http://kuchini.site:8080/livetvchannel2021/nMuMpbXFaUKwEyUy/1350
 http://protocol.solanaflix.com:8080/play/FgqsXPUvztGt8Gka3M3zeu7hkBiKYyd6S-xi6M_DKcyTSyo_6uwjCibY9NrL2VWA
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",Zee World
 http://206.212.248.20/live/craigg/1Lurn7m3F1/94726.m3u
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",mbc bollywood
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",SHEMAROO bollywood
+https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemaroobollywood
 
 
 
@@ -629,7 +639,7 @@ https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/xTdXfGJ.png",NASA
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/xTdXfGJ.png",NASA
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
 
 #EXTINF:-1 group-title="B4U" tvg-logo="https://imgur.com/CiLTFno.png",24/7 B4U
