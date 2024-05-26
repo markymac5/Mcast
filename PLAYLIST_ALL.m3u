@@ -109,7 +109,17 @@ https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/da
 https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/dazn.12.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS CANADA
 https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/bein.sport.canada.ca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS 2
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS 3
+http://175.107.244.52:4457/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS 5
+http://175.107.244.52:4457/play/a06y/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS 
+http://175.107.244.52:4457/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",TENNIS CHANNEL 
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",ESPN 
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS 
 http://iptv.nextnet.krd:25461/nextnet/3738/4346
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2 PREMIUM" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS",PEACOCK
 http://tv.trexiptv.com:8000/play/live.php?mac=00:1A:79:E2:dc:67&stream=1006286&extension=ts
@@ -277,7 +287,8 @@ http://jt-info.xyz:80/liamodwyer999@hotmail.com/6381628734/116557
 https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="https://i.imgur.KYsz30.png" group-title="NEWS",PRESS TV
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="https://i.imgur.KYsz30.png" group-title="NEWS",THE GRIO BLACK NEWS
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 
 
 
@@ -427,8 +438,10 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28846
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",TELEMUNDO WEST
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
-
-
+#EXTINF:-1 tvg-name="RAKUTEN" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="RAKUTEN TV SHOW
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="RAKUTEN" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="RAKUTEN TV SPOTLIGHT
+https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="SKY PREMIER VIP" tvg-id="" tvg-logo="https://i.imgur.com/jG4Gq6l.png" group-title="MOVIES",SKY CINEMA HITS
@@ -517,6 +530,12 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="RAKUTEN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",RAKUTEN FAMILY MOVIES
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="RAKUTEN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",RAKUTEN TOP FREE
+https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="RAKUTEN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",RAKUTEN TOP MOVIES
+https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FILMRISE MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",FILM RISE SCI FI
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8
 
 
 
@@ -627,8 +646,8 @@ https://tvnow.best/api/stream/lilliwhite63@gmail.com/Messyah++/livetv.epg/the.co
 http://kuchini.site:8080/livetvchannel2021/nMuMpbXFaUKwEyUy/1350
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/INDIA/INDIA/ZeeTv.png",Zee Tv
 http://protocol.solanaflix.com:8080/play/FgqsXPUvztGt8Gka3M3zeu7hkBiKYyd6S-xi6M_DKcyTSyo_6uwjCibY9NrL2VWA
-#EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",Zee World
-http://206.212.248.20/live/craigg/1Lurn7m3F1/94726.m3u
+#EXTINF:-1 group-title="Bollywood" tvg-logo="https://lo1.in/LOGO/CARIBBEAN/ZEEWORLD.PNG",MBC BOLLYWOOD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 group-title="Bollywood" tvg-logo="https://picon-13398.kxcdn.com/starplus.jpg",SHEMAROO bollywood
 https://shemaroo.codeautoplay.workers.dev/?codeby=nd&channel=shemaroobollywood
 
