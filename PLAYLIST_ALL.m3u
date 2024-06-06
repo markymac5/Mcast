@@ -252,9 +252,9 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/bbc.news.channel.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
-https://tvnow.best/api/stream/soniamelo14@aol.com/567471/livetv.epg/bbc.news.channel.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
-https://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/bbc.news.channel.uk.m3u8
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS NORTH AMERICA
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARISE NEWS" tvg-logo="https://i.imgur.com/lSywOu8.jpg" group-title="NEWS",ARISE NEWS
 https://eja.tv/?0bd5615c9bb005ce0b54b925a365d4dc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
