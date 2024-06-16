@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Supersports Blitz" tvg-logo="https://i.imgur.com/z9lRB7g.jpg" group-title="SPORTS",EURO 2024
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12588
+#EXTINF:-1 tvg-id="" tvg-name="Supersports Blitz" tvg-logo="https://i.imgur.com/z9lRB7g.jpg" group-title="SPORTS",EURO 2024
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12590
+#EXTINF:-1 tvg-id="" tvg-name="Supersports Blitz" tvg-logo="https://i.imgur.com/z9lRB7g.jpg" group-title="SPORTS",EURO 2024
+https://play.gachor99.my.id:443/euro2024/nBJWNdZv5w/12587
 #EXTINF:-1 tvg-id="" tvg-name="Supersports Blitz" tvg-logo="https://i.imgur.com/z9lRB7g.jpg" group-title="SPORTS",Supersports Blitz
 https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/ss.blitz.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Supersports Blitz" tvg-logo="https://i.imgur.com/z9lRB7g.jpg" group-title="SPORTS",Supersports Blitz
@@ -357,7 +363,7 @@ https://lb.thunderbolt-40gbps.com/play/3q4KaAA-Ye0TpjosG9WFvRIDrTO0njBmJkDS7aMw1
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/itv.1.uk.m3u8 
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
-https://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/itv.1.uk.m3u8
+http://charlene-angele.ifiesta.net:8080/TV-3675040544/547388444083/199614
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
 https://flarestream.tv:443/Okrcky2233/eHh7Yp2vws/4067.ts
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV2
