@@ -172,10 +172,14 @@ https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/eleven.spo
 https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/eleven.sports.3.pt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ELEVEN SPORTS
 https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/eleven.sports.4.pt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",FOX SPORTS
+https://lnc-fox-sports2.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",FS1
+http://s.only4.tv/7924/video.m3u8?token=WD3nS5iUiY
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",FUBO
 https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/fubo.sports.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",FUBO
-https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/fubo.sports.us.2.m3u8
+https://lnc-fubo.tubi.video/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",OPTUS1
 http://447769.solanaflix.com:8080/TV-51442241/597774609599/113855
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",OPTUS1
@@ -440,14 +444,18 @@ http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/111.ts
 http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23064
 #EXTINF:-1 tvg-name="E" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT",E
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28846
-#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",TELEMUNDO EAST
-https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
-#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",TELEMUNDO WEST
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
-#EXTINF:-1 tvg-name="RAKUTEN" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="RAKUTEN TV SHOW
+#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",ADVENTURE
+https://lnc-4adventure.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",EMERGENCY
+https://lnc-4emergency.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-name="RAKUTEN" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",RAKUTEN TV SHOW
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="RAKUTEN" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="RAKUTEN TV SPOTLIGHT
+#EXTINF:-1 tvg-name="RAKUTEN" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",RAKUTEN TV SPOTLIGHT
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",ALLIEN NATION
+https://lnc-alien-nation.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",ALWAYS FUNNY
+https://lnc-afv.tubi.video/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="SKY PREMIER VIP" tvg-id="" tvg-logo="https://i.imgur.com/jG4Gq6l.png" group-title="MOVIES",SKY CINEMA HITS
@@ -470,8 +478,8 @@ https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/sk
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/sky.cinema.thriller.uk.m3u8
 #EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",MBC2
 http://echo.solanaflix.com:8080/play/hPMnXjp4bDDKI9YYpkc11R-mrH4RCxtw7oJP2qJZXo1vKRyg9q_Hvw04qPklCPo5
-#EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",MBC2
-http://streama.cc:80/Wiled123/11223344/37837
+#EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",EBONY TV
+https://lnc-ebony-tv.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-name="MNET" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIES",MNET
 http://jt-info.xyz:80/liamodwyer999@hotmail.com/6381628734/116526
 #EXTINF:-1 tvg-name="MNET" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIES",MNET
