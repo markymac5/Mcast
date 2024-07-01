@@ -365,7 +365,7 @@ https://lb.thunderbolt-40gbps.com/play/3q4KaAA-Ye0TpjosG9WFvRIDrTO0njBmJkDS7aMw1
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
 https://lb.thunderbolt-40gbps.com/play/3q4KaAA-Ye0TpjosG9WFvRIDrTO0njBmJkDS7aMw1zb3vmFereUwxeqlhjCp3M4q
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
-https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/itv.1.uk.m3u8 
+https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/itv.1.uk.m3u8
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
 http://charlene-angele.ifiesta.net:8080/TV-3675040544/547388444083/199614
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",ITV1
@@ -382,14 +382,16 @@ https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/it
 https://tvnow.best/api/stream/gegame@me.com/NoahAbrahamIbarra21/livetv.epg/itvbe.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC ONE SOUTH
 https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/bbc.one.south..964.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC ONE WALES
-https://tvnow.best/api/stream/hallpeter79@gmail.com/792007/livetv.epg/bbc.one.wales.uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC ONE LONDON
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC ONE LONDON
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC TWO WALES
 https://tvnow.best/api/stream/hallpeter79@gmail.com/792007/livetv.epg/bbc.two.wales.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC TWO SOUTH
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/bbc.two.south..964.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC TWO WALES
-https://tvnow.best/api/stream/hallpeter79@gmail.com/792007/livetv.epg/bbc.two.wales.uk.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC TWO 
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT",BBC THREE
+https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL E4
 https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/E4.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL E4
@@ -402,6 +404,10 @@ https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4PLUS1/tracks-v1a1/playlist.m3u8
 https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/channel.4.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 4 
 https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 5
+https://livehivetv.net:443/play/NSBsHDUgDyoTdeqq95otWN1r-s8UcfcHhBg0xu0DwRUTPFMvee3swqJwwXzHDjle
+#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 5
+https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/channel.5.uk.m3u8
 #EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",BEACH TV
 https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",BEACH TV
