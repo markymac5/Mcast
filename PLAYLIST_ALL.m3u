@@ -3,7 +3,9 @@
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/ss.blitz.ze.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SOUND CITY" tvg-logo="https://i.imgur.com/YEe3NbB.png" group-title="MUSIC",SOUND CITY
-https://tvnow.best/api/stream/markwilson45@gmail.com/Kyarra@1993/livetv.epg/soundcity.ze.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE HIT
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="V2BET" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="MUSIC",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
